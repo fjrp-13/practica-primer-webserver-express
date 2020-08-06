@@ -6,4 +6,4 @@ npm install
 
 ### Código fuente del proyecto
 
-Proyecto web con HBS y Heroku
+Proyecto web con HBS (Partials y Helpers) y Heroku
